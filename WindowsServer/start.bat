@@ -1,0 +1,1 @@
+BallRena.exe -batchmode -nographics
