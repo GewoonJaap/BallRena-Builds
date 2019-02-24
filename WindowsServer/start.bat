@@ -1,4 +1,4 @@
-BallRena.exe -batchmode -nographics
+BallRenaGame.exe -batchmode -nographics
 
 
 
